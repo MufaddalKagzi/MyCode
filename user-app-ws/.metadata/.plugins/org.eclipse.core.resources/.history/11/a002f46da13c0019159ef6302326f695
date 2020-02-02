@@ -1,0 +1,5 @@
+package com.mylearning.app.ws.mo;
+
+public class userDetails {
+
+}
